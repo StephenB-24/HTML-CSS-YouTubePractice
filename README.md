@@ -1,2 +1,2 @@
-# HTML_CSS_YouTube_Practice
+# HTML CSS YouTube Practice
 A remake of a YouTube page for practicing HTML and CSS
